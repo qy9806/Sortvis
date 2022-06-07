@@ -9,4 +9,4 @@ Implemented algorithms:
 4) Merge sort
 5) Quick sort
 6) Heap sort
-
+Demo:https://qy9806.github.io/Sortvis/
